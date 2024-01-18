@@ -1,2 +1,2 @@
 # VCCourse_ChallengeREADME.md
-VCCourseCallenge
+VCCourseChallenge
